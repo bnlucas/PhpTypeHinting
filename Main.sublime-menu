@@ -1,0 +1,15 @@
+[
+	{
+		"id": "tools",
+		"caption": "Tools",
+		"children": [
+			{
+				"id": "php",
+				"caption": "PHP",
+				"children": [
+					{ "command": "php_type_hinting", "caption": "PHP Type Hinting" }
+				]
+			}
+		]
+	}
+]

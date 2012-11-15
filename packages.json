@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "PhpTypeHinting",
+			"description": "Converts abstract method syntax for use with a PHP utility class called TypeCheck.",
+			"author": "Nathan Lucas",
+			"homepage": "https://github.com/bnlucas/PhpTypeHinting",
+			"last_modified": "2012-11-15 09:17:38",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "https://github.com/bnlucas/PhpTypeHinting/archive/master.zip"
+					}
+				]
+			}
+		}
+	]
+}

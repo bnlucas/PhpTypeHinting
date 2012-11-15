@@ -1,0 +1,5 @@
+[
+	{ "caption": "-" },
+	{ "command": "php_type_hinting", "caption": "PHP Type Hinting…" },
+	{ "caption": "-", "id": "end" }
+]

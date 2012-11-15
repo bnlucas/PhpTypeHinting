@@ -1,0 +1,9 @@
+This automattically adds calls for TypeCheck, a PHP utility class for type
+checking method parameters. One simple call for ensuring proper variable
+types were passed. You can get it at https://github.com/bnlucas/Utilities
+
+There are three ways of calling PHP Type Hinting:
+
+1. Tools->PHP->PHP Type Hinting
+2. From the context menu, PHP Type Hinting...
+3. Keystroke Ctrl+K + Ctrl+T
