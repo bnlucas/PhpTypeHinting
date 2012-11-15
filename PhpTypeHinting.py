@@ -18,6 +18,7 @@ def parseParameters(paramstring):
 			default = chunks[1]
 
 		type = "float" if type == "Number" else type
+		type = "object" if type == "Function" else type
 		type = type.lower() if type in ["String", "Array", "Object"] else type
 
 		if "#" == default[0]:
