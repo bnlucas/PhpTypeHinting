@@ -1,7 +1,7 @@
 PHP Type Hinting
 ================
 
-I prefer the Java/AS3 way of type hiting method parameters **param:Type** where as PHP
+I prefer the AS3 way of type hiting method parameters **param:Type** where as PHP
 offers very limited type hinting; object, array, or class name. This is a Sublime Text
 plugin to convert an abstract PHP syntax into type hinted methods. It uses my PHP
 utility package, [TypeCheck](https://github.com/bnlucas/Utilities/blob/master/TypeCheck.php) for parameter type checking.
